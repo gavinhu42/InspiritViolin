@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Implementation code for proposed model in "Semi-supervised Violin Finger Generation Using Variational Autoencoders" by Vincent K.M. Cheung, Hsuan-Kai Kao, and Li Su in Proc. of the 22nd Int. Society for Music Information Retrieval Conf., Online, 2021.
-
-Code below is based on implementation from https://github.com/Tsung-Ping/Violin-Fingering-Generation , "Positioning Left-hand Movement in Violin Performance: A System and User Study of Fingering Pattern Generation" (IUI 2021)
-
-"""
-
 import numpy as np
 import pickle
 
